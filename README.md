@@ -94,9 +94,8 @@ This repository provides comprehensive implementations of GNN-based models for f
 
 ---
 
-# Developed by:
+# **Developed by:**
 
   Ali Gharibpur
   
   S.M.Javad Taghavi
-یDeveloped by
